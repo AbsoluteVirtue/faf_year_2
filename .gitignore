@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# ANTLR
+calc/*
+test/*
+lox/*
+*test*.*
+terminal.txt
+*.interp
+*.tokens
+*.class
+*.java
+*.py
